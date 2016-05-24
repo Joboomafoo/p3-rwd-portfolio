@@ -1,7 +1,9 @@
 /********************
 YOUR STYLES
 *******************/
-
+@import url('CSS/reset.css');
+@import url('accessibility.css');
+@import url('card-styles.css');
 
 
 
