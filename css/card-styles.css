@@ -16,7 +16,7 @@ body {
 	background: forestgreen;
 }
 
-.site-title {
+h1.site-title {
 	color: white;
 }
 
