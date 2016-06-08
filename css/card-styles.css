@@ -1,11 +1,14 @@
 /* Card Based Layout - Base styles */
 
 body {
-	background: hsl(0, 0%, 90%);
+  margin: 0;
+  font-family: arial;
+  background: url(../img/bench.jpg) top center no-repeat;
+  background-size: cover;
 }
 
 .masthead {
-	background: hsl(0, 0%, 20%);
+	background: forestgreen;
 }
 
 .site-title {
