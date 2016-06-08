@@ -1,5 +1,7 @@
 .masthead {
-    background: none;
+    background: forestgreen;
+    border-radius: 40px;
+    opacity: .6;
 }
 
 .site-title {
