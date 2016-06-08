@@ -28,20 +28,21 @@ YOUR STYLES
   margin: auto;
   padding: 1em;
   color: white;
-  background: black;
+  background: forestgreen;
 }
 
 h1 {
-	font-family: 'Ubuntu', Arial, sans-serif;
+	font-family: Arial, sans-serif;
+	color: white;
   font-weight: 700;
 }
 
 h2 {
-  	font-family: 'Ubuntu', Arial, sans-serif;
+  	font-family:Arial, sans-serif;
 }
 
 p {
-  	font-family: 'Tinos', Times, serif;
+  	font-family: Arial, sans-serif;
   text-align: center;
 }
 
