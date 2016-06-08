@@ -22,13 +22,12 @@ YOUR STYLES
 }
 
 .footer-area {
-  text-align: center;
   font-size: .75em;
   letter-spacing: 1px;
   margin: auto;
   padding: 1em;
   color: white;
-  background: forestgreen;
+  background: none;
 }
 
 h1 {
