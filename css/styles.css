@@ -1,4 +1,16 @@
 /********************
+IMPORTS - slows down site loading
+*******************/
+@import url('accessibility.css');
+@import url('card-styles.css');
+@import url('holy-grail.css');
+@import url('masthead.css');
+@import url('typography.css');
+@import url('all-together.css');
+@import url('reset.css');
+
+
+/********************
 YOUR STYLES
 *******************/
 .lg-backdrop {
